@@ -1,2 +1,2 @@
 # NBSentimentAnalysis
-Using a Naive Bayes Classifier to analyze social media posts.
+Using a Naive Bayes Classifier to analyze movie reviews on IMBD
